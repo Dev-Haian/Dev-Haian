@@ -38,7 +38,7 @@ Qualidade desde o requisito até a automação — com foco em fintech, crédito
 | Projeto | O que demonstra |
 | --- | --- |
 | 🎭 [playwright-e2e-api](https://github.com/Dev-Haian/playwright-e2e-api) | **Projeto principal.** E2E (desktop + mobile) e API com Playwright + TypeScript, Page Objects, fixtures, CI e [relatório online](https://dev-haian.github.io/playwright-e2e-api/) |
-| 🐶 [cypress-adopet-e2e](https://github.com/Dev-Haian/cypress-adopet-e2e) | Cypress com comandos customizados, testes orientados a dados e `cy.intercept` |
+| 🐶 [cypress-adopet-e2e](https://github.com/Dev-Haian/cypress-adopet-e2e) | Cypress com comandos customizados, testes orientados a dados e validação positiva e negativa de formulários |
 | 🤖 [robot-framework-organo](https://github.com/Dev-Haian/robot-framework-organo) | Robot Framework em BDD e português, com Page Object |
 
 ### Como eu trabalho
