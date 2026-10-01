@@ -4,7 +4,7 @@ Qualidade desde o requisito até a automação — com foco em fintech, crédito
 
 <p align="center">
   <a href="https://www.linkedin.com/in/haian-vilas-boas-806647221/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://haianportifolio.framer.website/"><img src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=framer&logoColor=white" alt="Portfólio"></a>
+  <a href="https://dev-haian.github.io/"><img src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=framer&logoColor=white" alt="Portfólio"></a>
   <a href="mailto:haianvilasboas@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
